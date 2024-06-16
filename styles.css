@@ -23,7 +23,7 @@
   }
   
   body {
-    background-color: var(--app-background-color);
+    background: linear-gradient(to bottom, #8BBAFE 0%,  #E1AB7D 100%);
     color: var(--primary-color);
     font-family: var(--font-family);
   }
@@ -88,7 +88,7 @@
     height: 2px;
     width: 100%;
     min-width: 75px;
-    background-color: var(--highlight-color);
+    background-color: transparent;
   }
   
   .fcc-title,
@@ -112,7 +112,7 @@
     background-color: var(--secondary-color);
     border: 6px solid var(--background-color);
     height: 153px;
-    width: 40%;
+    width: 35%;
   }
   
   #player-album-art img {
@@ -128,7 +128,7 @@
     padding: 14px;
     background-color: var(--background-color);
     height: 153px;
-    width: 40%;
+    width: 35%;
   }
   
   .player-display-song-artist {

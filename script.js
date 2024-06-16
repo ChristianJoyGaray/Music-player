@@ -8,17 +8,17 @@ const shuffleButton = document.getElementById("shuffle");
 const allSongs = [
   {
     id: 0,
-    title: "Scratching The Surface",
+    title: "Amazing Love",
     artist: "Quincy Larson",
     duration: "4:25",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/scratching-the-surface.mp3",
+    src: "songs/Amazing Love.mp3",
   },
   {
     id: 1,
-    title: "Can't Stay Down",
+    title: "Brethren We Have Met to Worship  Ben Everson A Cappella",
     artist: "Quincy Larson",
     duration: "4:15",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/can't-stay-down.mp3",
+    src: "songs/Brethren We Have Met to Worship  Ben Everson A Cappella.mp3",
   },
   {
     id: 2,
