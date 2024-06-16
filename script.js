@@ -43,10 +43,10 @@ const allSongs = [
   },
   {
     id: 5,
-    title: "From the Ground Up",
+    title: "The Final Account",
     artist: "Quincy Larson",
     duration: "3:12",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/from-the-ground-up.mp3",
+    src: "songs/The Final Account.mp3",
   },
   {
     id: 6,
