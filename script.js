@@ -15,7 +15,7 @@ const allSongs = [
   },
   {
     id: 1,
-    title: "Brethren We Have Met to Worship Acappella",
+    title: "Brethren We Have Met to Worship",
     artist: "Benjamin Everson",
     duration: "3:18",
     src: "songs/Brethren We Have Met to Worship Acappella.mp3",
