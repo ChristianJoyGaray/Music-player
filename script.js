@@ -18,7 +18,7 @@ const allSongs = [
     title: "Brethren We Have Met to Worship  Ben Everson A Cappella",
     artist: "Benjamin Everson",
     duration: "4:15",
-    src: "songs/Brethren We Have Met to Worship  Ben Everson A Cappella.mp3",
+    src: "songs/Brethren We Have Met to Worship Acappella.mp3",
   },
   {
     id: 2,
@@ -50,10 +50,10 @@ const allSongs = [
   },
   {
     id: 6,
-    title: "Walking on Air",
+    title: "Wings as Eagles",
     artist: "Quincy Larson",
     duration: "3:25",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/walking-on-air.mp3",
+    src: "songs/Wings as Eagles.mp3",
   },
   {
     id: 7,
