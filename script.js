@@ -29,10 +29,10 @@ const allSongs = [
   },
   {
     id: 3,
-    title: "Cruising for a Musing",
-    artist: "Quincy Larson",
+    title: "Walk in the Spirit",
+    artist: "Benjamin Everson",
     duration: "3:34",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3",
+    src: "songs/Walk in the Spirit.mp3",
   },
   {
     id: 4,
