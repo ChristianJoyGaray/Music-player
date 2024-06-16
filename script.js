@@ -71,10 +71,10 @@ const allSongs = [
   },
   {
     id: 9,
-    title: "Chasing That Feeling",
+    title: "Your Will Be Done",
     artist: "Quincy Larson",
     duration: "2:43",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/chasing-that-feeling.mp3",
+    src: "Your Will Be Done",
   },
 ];
 
