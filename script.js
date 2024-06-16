@@ -64,10 +64,10 @@ const allSongs = [
   },
   {
     id: 8,
-    title: "The Surest Way Out is Through",
+    title: "Peter's Song",
     artist: "Quincy Larson",
     duration: "3:10",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/the-surest-way-out-is-through.mp3",
+    src: "songs/Peter's Song.mp3",
   },
   {
     id: 9,
