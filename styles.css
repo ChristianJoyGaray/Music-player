@@ -284,13 +284,18 @@
   }
   
   @media (max-width: 700px) {
+
+    body{
+      height: 100vh;
+    }
+
     .player,
     .playlist {
       width: 300px;
     }
   
     .player {
-      height: 340px;
+      height:250px;
     }
   
     #playlist-songs {
@@ -316,6 +321,7 @@
   
     h1 {
       font-size: 0.813rem;
+      width:200px;
     }
   
     h2 {
@@ -355,14 +361,17 @@
     #player-album-art {
       z-index: -100;
       height: 153px;
-      width: 40%;
+      width: 100%;
       box-shadow: none;
       background: #000;
+      
     }
   
     #player-album-art img {
       width: 100%;
+      height: 100%;
       opacity: 0.6;
+      
     }
   
     .player-display-song-artist {
@@ -379,8 +388,8 @@
       z-index: 1000;
       background-color: transparent;
       top: 0;
-      height: 280px;
-      justify-content: space-between;
+      height: 245px;
+      justify-content: center;
       text-align: center;
     }
   }
