@@ -57,10 +57,10 @@ const allSongs = [
   },
   {
     id: 7,
-    title: "Can't Stop Me. Can't Even Slow Me Down.",
+    title: "Missionary Call",
     artist: "Quincy Larson",
     duration: "3:52",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/cant-stop-me-cant-even-slow-me-down.mp3",
+    src: "songs/Missionary Call.mp3",
   },
   {
     id: 8,
