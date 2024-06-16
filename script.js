@@ -36,10 +36,10 @@ const allSongs = [
   },
   {
     id: 4,
-    title: "Never Not Favored",
+    title: "It's Still the Blood",
     artist: "Quincy Larson",
     duration: "3:35",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/never-not-favored.mp3",
+    src: "songs/It's Still the Blood.mp3",
   },
   {
     id: 5,
