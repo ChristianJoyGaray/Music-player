@@ -9,23 +9,23 @@ const allSongs = [
   {
     id: 0,
     title: "Amazing Love",
-    artist: "Quincy Larson",
+    artist: "Benjamin Everson",
     duration: "4:25",
     src: "songs/Amazing Love.mp3",
   },
   {
     id: 1,
     title: "Brethren We Have Met to Worship  Ben Everson A Cappella",
-    artist: "Quincy Larson",
+    artist: "Benjamin Everson",
     duration: "4:15",
     src: "songs/Brethren We Have Met to Worship  Ben Everson A Cappella.mp3",
   },
   {
     id: 2,
-    title: "Still Learning",
-    artist: "Quincy Larson",
+    title: "I'll Pray Again",
+    artist: "Benjamin Everson",
     duration: "3:51",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/still-learning.mp3",
+    src: "songs/I'll Pray Again.mp3",
   },
   {
     id: 3,
